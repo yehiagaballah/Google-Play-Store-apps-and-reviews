@@ -1,6 +1,6 @@
 # Google-Play-Store-apps-and-reviews
 
-Hello, 
+Hey There, 
 
 This project is a part of a series of projects on [Datacamp.com](https://learn.datacamp.com/) for Data Science with Python [Career Track](https://learn.datacamp.com/career-tracks/data-scientist-with-python?version=5)
 
